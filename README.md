@@ -4,7 +4,7 @@
 This repository contains materials for the Generative AI Full Course organized by the TensorFlow User Group Kathmandu. The course is designed to provide participants with a comprehensive understanding of generative artificial intelligence techniques and applications.
 
 ## Lead Organizer / Speaker
-- **Prabhash Kumar Jha** - [LinkedIn](https://www.linkedin.com/in/prabhash-kumar-jha/)
+- **Prabhash Kumar Jha** 
 
 ## Organizer
 - **Ashish Aryal** - [LinkedIn](https://www.linkedin.com/in/ashish-aryal-030875201/)
