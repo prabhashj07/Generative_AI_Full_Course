@@ -32,7 +32,7 @@ Contributions to this course material are welcome! If you find any issues or hav
 ## Contact
 For any inquiries or feedback regarding the course, you can reach out to the organizers via the following channels:
 - Prabhash Kumar Jha: prabhashj07@gmail.com
-- Aashish Aryal
+- Aashish Aryal : ashisharyal580@gmail.com
 
 ## License
 This course material is provided under the [MIT License](LICENSE). Feel free to use and modify it for educational purposes.
