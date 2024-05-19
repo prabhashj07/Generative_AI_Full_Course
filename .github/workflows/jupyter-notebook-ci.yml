@@ -1,0 +1,27 @@
+name: Jupyter Notebook CI
+
+on: [push, pull_request]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.8'  # or your preferred Python version
+
+    - name: Install dependencies
+      run: |
+        python -m venv env
+        source env/bin/activate
+        pip install -r requirements.txt
+
+    - name: Convert and Execute Notebooks
+      run: |
+        source env/bin/activate
+        jupyter nbconvert --to html --execute path/to/your/notebook.ipynb
+
